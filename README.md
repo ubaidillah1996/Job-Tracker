@@ -1,17 +1,17 @@
-# 💼 Job Application Tracker (Python CLI)
+# Job Application Tracker (Python CLI)
 
 A simple Python project to manage job applications using a command-line interface (CLI).
 
 ---
 
-## 📌 Project Purpose
+## Project Purpose
 
 This project helps users track their job applications in one place.  
 Users can add, view, and manage applications easily.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add new job application
 - View all applications
@@ -21,17 +21,17 @@ Users can add, view, and manage applications easily.
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python
 - CLI (Command Line Interface)
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Open terminal in project folder
 2. Run:
 
 ```bash
-python main.py
+py main.py
